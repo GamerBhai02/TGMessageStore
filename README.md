@@ -49,12 +49,12 @@ Variables can also be loaded by creating a ```.env``` file at the root of the re
 ## Deploy
 Deploy your own **TGMessageStore** app to vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/Jisin0/TGMessageStore/tree/main&env=BOT_TOKEN&envDescription=List%20of%20of%20allowed%20bot%20tokens%20or%20leave%20empty%20to%20allow%20all)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/GamerBhai02/TGMessageStore/tree/main&env=BOT_TOKEN&envDescription=List%20of%20of%20allowed%20bot%20tokens%20or%20leave%20empty%20to%20allow%20all)
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Jisin0/TGMessageStore/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/GamerBhai02/TGMessageStore/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -63,7 +63,7 @@ Deploy your own **TGMessageStore** app to vercel
 <details><summary>Deploy To Scalingo</summary>
 <p>
 <br>
-<a href="https://dashboard.scalingo.com/create/app?source=https://github.com/Jisin0/TGMessageStore#main">
+<a href="https://dashboard.scalingo.com/create/app?source=https://github.com/GamerBhai02/TGMessageStore#main">
    <img src="https://cdn.scalingo.com/deploy/button.svg" alt="Deploy on Scalingo" data-canonical-src="https://cdn.scalingo.com/deploy/button.svg" style="max-width:100%;">
 </a>
 </p>
@@ -98,7 +98,7 @@ Make sure to have the following options set :
 <details><summary>Deploy To Koyeb</summary>
 <p>
 <br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Jisin0/TGMessageStore&branch=main">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/GamerBhai02/TGMessageStore&branch=main">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="deploy-to-koyeb">
 </a>
 </p>
@@ -111,7 +111,7 @@ You must set the Run command to :
 <details><summary>Deploy To Okteto</summary>
 <p>
 <br>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Jisin0/TGMessageStore">
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/GamerBhai02/TGMessageStore">
   <img src="https://okteto.com/develop-okteto.svg" alt="deploy-to-okteto">
 </a>
 </p>
@@ -120,7 +120,7 @@ You must set the Run command to :
 <details><summary>Deploy To Railway</summary>
 <p>
 <br>
-<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FJisin0%2FTGMessageStore">
+<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FGamerBhai02%2FTGMessageStore">
   <img src="https://railway.app/button.svg" alt="deploy-to-railway">
 </a>
 </p>
@@ -130,7 +130,7 @@ You must set the Run command to :
 <p>
 You must have the latest version of <a href="https://go.dev/dl">GO</a> installed first
 <pre>
-git clone https://github.com/Jisin0/TGMessageStore
+git clone https://github.com/GamerBhai02/TGMessageStore
 cd TGMessageStore
 go build .
 ./TGMessageStore
