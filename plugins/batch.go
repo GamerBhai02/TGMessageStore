@@ -10,11 +10,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Jisin0/TGMessageStore/config"
-	"github.com/Jisin0/TGMessageStore/utils/auth"
-	"github.com/Jisin0/TGMessageStore/utils/format"
-	"github.com/Jisin0/TGMessageStore/utils/helpers"
-	"github.com/Jisin0/TGMessageStore/utils/url"
+	"github.com/GamerBhai02/TGMessageStore/config"
+	"github.com/GamerBhai02/TGMessageStore/utils/auth"
+	"github.com/GamerBhai02/TGMessageStore/utils/format"
+	"github.com/GamerBhai02/TGMessageStore/utils/helpers"
+	"github.com/GamerBhai02/TGMessageStore/utils/url"
 	"github.com/PaulSonOfLars/gotgbot/v2"
 	"github.com/PaulSonOfLars/gotgbot/v2/ext"
 )
