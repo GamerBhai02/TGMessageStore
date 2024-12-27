@@ -8,8 +8,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Jisin0/TGMessageStore/plugins"
-	"github.com/Jisin0/TGMessageStore/utils/helpers"
+	"github.com/GamerBhai02/TGMessageStore/plugins"
+	"github.com/GamerBhai02/TGMessageStore/utils/helpers"
 	"github.com/PaulSonOfLars/gotgbot/v2"
 )
 
