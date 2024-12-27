@@ -9,8 +9,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/Jisin0/TGMessageStore/plugins"
-	"github.com/Jisin0/TGMessageStore/utils/autodelete"
+	"github.com/GamerBhai02/TGMessageStore/plugins"
+	"github.com/GamerBhai02/TGMessageStore/utils/autodelete"
 	"github.com/PaulSonOfLars/gotgbot/v2"
 	"github.com/PaulSonOfLars/gotgbot/v2/ext"
 )
