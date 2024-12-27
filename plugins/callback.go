@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Jisin0/TGMessageStore/config"
-	"github.com/Jisin0/TGMessageStore/utils/format"
+	"github.com/GamerBhai02/TGMessageStore/config"
+	"github.com/GamerBhai02/TGMessageStore/utils/format"
 	"github.com/PaulSonOfLars/gotgbot/v2"
 	"github.com/PaulSonOfLars/gotgbot/v2/ext"
 )
