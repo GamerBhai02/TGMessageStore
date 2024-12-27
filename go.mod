@@ -1,4 +1,4 @@
-module github.com/Jisin0/TGMessageStore
+module github.com/GamerBhai02/TGMessageStore
 
 go 1.22.1
 
