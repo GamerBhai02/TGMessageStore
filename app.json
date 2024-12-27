@@ -8,9 +8,9 @@
         "messagestore",
         "Telegram"
     ],
-    "website": "https://github.com/Jisin0",
-    "repository": "https://github.com/Jisin0/TGMessageStore",
-    "success_url": "https://telegram.dog/Jisin0",
+    "website": "https://github.com/GamerBhai02",
+    "repository": "https://github.com/GamerBhai02/TGMessageStore",
+    "success_url": "https://telegram.dog/GamerBhai02",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
