@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Jisin0/TGMessageStore/config"
+	"github.com/GamerBhai02/TGMessageStore/config"
 	"github.com/PaulSonOfLars/gotgbot/v2"
 	"github.com/jmoiron/sqlx"
 	_ "github.com/mattn/go-sqlite3"
