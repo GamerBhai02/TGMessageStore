@@ -4,7 +4,7 @@
 
 package auth
 
-import "github.com/Jisin0/TGMessageStore/config"
+import "github.com/GamerBhai02/TGMessageStore/config"
 
 // CheckUser checks if a user is allowed to use the bot.
 // It returns true if ALLOW_PUBLIC is set to true or checks the Admins list.
