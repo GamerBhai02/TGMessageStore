@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Jisin0/TGMessageStore/config"
+	"github.com/GamerBhai02/TGMessageStore/config"
 )
 
 // EncodeURL encodes the input data into a neat base64 encoded string to use as a start parameter.
